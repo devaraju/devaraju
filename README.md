@@ -1,9 +1,10 @@
 ### Hi there 👋 
-I’m <b>[Devaraju](https://devaraju.herokuapp.com)</b>, currently <b>final year</b> <b>Computer Science :computer: </b> undergraduate at <b>[Rajiv Gandhi University](https://rguktn.ac.in/)</b>, Nuzvid, A.P, India.
+I’m <b>[Devaraju](https://devaraju.herokuapp.com)</b>, am a passionate programmer and currently <b>final year</b> <b>Computer Science :computer: </b> undergraduate at <b>[Rajiv Gandhi University](https://rguktn.ac.in/)</b>, Nuzvid, A.P, India.
 I prefer to keep learning, continue challenging myself, and do interesting things that matter.
 
 
 ## My Skills
+
 
 ```python
 skills = {
@@ -27,9 +28,9 @@ skills = {
 
 
 <p align="center">
-    <a href="#"><img src="https://img.icons8.com/fluent/24/000000/linkedin-2.png"/></a>&emsp;
-    <a href="#"><img src="https://img.icons8.com/fluent/20/000000/twitter.png"/></a>&emsp;
-    <a href="#"><img src="https://img.icons8.com/fluent/20/000000/gmail.png"/></a>&emsp;
+    <a href="https://www.linkedin.com/in/devarajutirumareddi/"><img src="https://img.icons8.com/fluent/24/000000/linkedin-2.png"/></a>&emsp;
+    <a href="https://twitter.com/_dev_raj_/"><img src="https://img.icons8.com/fluent/20/000000/twitter.png"/></a>&emsp;
+    <a href="https://devaraju.herokuapp.com/"><img src="https://img.icons8.com/officel/20/000000/copy-link.png"/></a>&emsp;
 </p>
 
 <!--

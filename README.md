@@ -1,4 +1,36 @@
-### Hi there 👋
+### Hi there 👋 
+I’m <b>[Devaraju](https://devaraju.herokuapp.com)</b>, currently <b>final year</b> <b>Computer Science :computer: </b> undergraduate at <b>[Rajiv Gandhi University](https://rguktn.ac.in/)</b>, Nuzvid, A.P, India.
+I prefer to keep learning, continue challenging myself, and do interesting things that matter.
+
+
+## My Skills
+
+```python
+skills = {
+    frameworks: [Django, ReactJS],
+
+    languages : [ Python, JavaScript, Cpp, C ],
+
+    layout: {
+        markup: [ HTML ],
+        styling: [ CSS, SemanticUI, Bootstrap ]
+    },
+
+    databases : [ MySQL, PostgreSQL ],
+
+    hosting : [ Heroku, PythonAnyWhere, GitHub-Pages]
+
+    tool : [ Git ]
+}
+```
+
+
+
+<p align="center">
+    <a href="#"><img src="https://img.icons8.com/fluent/24/000000/linkedin-2.png"/></a>&emsp;
+    <a href="#"><img src="https://img.icons8.com/fluent/20/000000/twitter.png"/></a>&emsp;
+    <a href="#"><img src="https://img.icons8.com/fluent/20/000000/gmail.png"/></a>&emsp;
+</p>
 
 <!--
 **DevaRaj297/DevaRaj297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

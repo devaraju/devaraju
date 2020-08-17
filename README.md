@@ -1,6 +1,5 @@
 ### Hi there 👋 
-I’m <b>[Devaraju](https://devaraju.herokuapp.com)</b>, am a passionate programmer and currently <b>final year</b> <b>Computer Science :computer: </b> undergraduate at <b>[Rajiv Gandhi University](https://rguktn.ac.in/)</b>, Nuzvid, A.P, India.
-I prefer to keep learning, continue challenging myself, and do interesting things that matter.
+I’m <b>[Devaraju](https://devaraju.herokuapp.com)</b>, am a passionated programmer and currently <b>final year</b> <b>Computer Science :computer: </b> undergraduate at <b>[Rajiv Gandhi University](https://rguktn.ac.in/)</b>, Nuzvid, A.P, India.
 
 
 ## My Skills
@@ -8,7 +7,7 @@ I prefer to keep learning, continue challenging myself, and do interesting thing
 
 ```python
 skills = {
-    frameworks: [Django, ReactJS],
+    frameworks: [Django],
 
     languages : [ Python, JavaScript, Cpp, C ],
 

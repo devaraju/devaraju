@@ -1,5 +1,5 @@
-### Hi there 👋 
-I’m <b>[Devaraju](https://devaraju.herokuapp.com)</b>, am a passionated programmer and currently <b>final year</b> <b>Computer Science :computer: </b> undergraduate at <b>[Rajiv Gandhi University](https://rguktn.ac.in/)</b>, Nuzvid, A.P, India.
+### Hi 👋 
+I’m <b>[Devaraju](https://devaraju.herokuapp.com)</b>, am a passionated programmer and <b>Computer Science :computer: </b> graduate from <b>[Rajiv Gandhi University](https://rguktn.ac.in/)</b>, A.P, India.
 
 
 ## My Skills
